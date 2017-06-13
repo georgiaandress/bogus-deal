@@ -5,6 +5,7 @@ article {
     background-color: #efefef;
     margin-bottom: 2em;
 }
+
 article header img {
     width: 100%;
     
@@ -47,7 +48,7 @@ article footer time {
 
 nav {
     color: #2d2d2d;
-    background-image: url(http://www.hoxtonfruit.com/DataImages/DataImages_/Products/item_0_item_0_fruit-05.jpg)
+    background-image: url(http://www.hoxtonfruit.com/DataImages/DataImages_/Products/item_0_item_0_fruit-05.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
@@ -61,4 +62,14 @@ nav a:hover {
     text-decoration: underline;
 }
     
+nav h1 {
+    color: #ff33cc;
+    font-size: 4em;
+    font-style: oblique;
+    text-align: center;
+}
+
+nav h3 {
+    color: #9b29c0;
+    text-align: center;
 }
